@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+}
+
+body{
+    min-height: 100%;
+    text-align:center;
+    background-image: url('images/bg.jpg');
+    background-size: cover;
+    padding-top: 80px;
+}
+main {
+    max-width: 600px;
+    margin-inline: auto;
+    padding: 40px 30px;
+    background-color:white;
+    border-radius: 40px;
+}
+
+button {
+    margin: auto;
+    max-width: 250px;
+}
